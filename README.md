@@ -4,4 +4,4 @@ This is a simple dice game developed in JavaScript. There are two players. Upon 
 
 # How to use the game
 
-Simply click on the link and press refresh button each time.
+Simply click on the link https://shramikasandeep.github.io/Dice-Game/ and press refresh button each time.
